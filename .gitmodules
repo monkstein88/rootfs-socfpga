@@ -1,8 +1,8 @@
 [submodule "cyclone5/poky"]
-	path = cyclone5/poky
+	path = qmtech-c5soc-kfb/poky
 	url = https://git.yoctoproject.org/poky
 	branch = kirkstone
 [submodule "cyclone5/meta-intel-fpga"]
-	path = cyclone5/meta-intel-fpga
+	path = qmtech-c5soc-kfb/meta-intel-fpga
 	url = https://git.yoctoproject.org/meta-intel-fpga
 	branch = kirkstone
