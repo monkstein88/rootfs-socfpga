@@ -1,0 +1,15 @@
+#
+# NOTE! Don't add files that are generated in specific
+# subdirectories here. Add them in the ".gitignore" file
+# in that subdirectory instead.
+#
+# Normal rules (sorted alphabetically)
+#
+
+#
+# Generated include files and build folders
+#
+qmtech-c5soc-kfb/build/cache/
+qmtech-c5soc-kfb/build/downloads/
+qmtech-c5soc-kfb/build/sstate-cache/
+
