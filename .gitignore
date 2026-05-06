@@ -13,3 +13,4 @@ qmtech-c5soc-kfb/build/cache/
 qmtech-c5soc-kfb/build/downloads/
 qmtech-c5soc-kfb/build/sstate-cache/
 
+*.log
